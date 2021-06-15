@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+
+#radio_btn  div{
+    width: 30%;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    border: 2px solid #ddd;
+}
